@@ -25,4 +25,5 @@ Once the data is in the database, this is how the database looks like. Note that
 
 ### Detailed Explanation
 Please see this medium article for more info
+
 https://amitpend.medium.com/extracting-historical-market-data-from-td-ameritrade-and-saving-in-sqlite-database-370ffb24a07e
