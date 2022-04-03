@@ -6,6 +6,9 @@ TD Ameritrade API: Specifically 'Get Price History'(pricehistory) endpoint 
 Python: To work on the received data - format, maintain database connection, find new data to sink etc.
 SQLite: To make use of SQL database engine. SQLite is a library that provides a relational database management system. It stores the database as a single file and eliminates the need of maintaining a database server. This immensely simplifies the database operations for a small user.
 
+The architecture is
+
+
 
 #### Implementation
 The main libraries used in the code are requests, json, pandas and sqlite3.
